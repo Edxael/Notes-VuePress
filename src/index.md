@@ -8,8 +8,8 @@ features:
   - title: Projects
     details: https://www.mycode.website/
   - title: Resume
-    details: Feature 2 Description
-  - title: Something
-    details: Feature 3 Description
+    details: link to resume
+  - title: Edxael-GitHub
+    details: MyGitHub Account here
 footer: Made by Edmundo Rubio
 ---
