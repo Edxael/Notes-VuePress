@@ -1,0 +1,19 @@
+{
+  "name": "Edxael-Notes",
+  "version": "0.0.1",
+  "description": "MyNotes",
+  "main": "index.js",
+  "authors": {
+    "name": "Edmundo Rubio",
+    "email": "zerphyr.r@gmail.com"
+  },
+  "repository": "https://github.com/Edxael/Notes-VuePress/Edxael-Notes",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
