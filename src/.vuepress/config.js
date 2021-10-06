@@ -102,7 +102,8 @@ module.exports = {
           collapsable: false,
           children: [
             'resources',
-            'git-renameBranch'
+            'git-renameBranch',
+            'git-change-origin',
           ]
         }
       ],
