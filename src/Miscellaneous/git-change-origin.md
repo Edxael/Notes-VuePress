@@ -1,4 +1,4 @@
-# Git: Change Origin (Upstream) of repository
+# Git: Change Origin (Upstream)
 
 Instructions in how to change the Origin on a repository so the upstream is a new or different repository in GitHub.
 
